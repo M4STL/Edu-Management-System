@@ -6,8 +6,8 @@ Edu Management System project in Java used SceneBuilder to design frontend,and J
 Edu Management System is a software application which is help to manage the activity of an institution
 like Student Management,Teacher Management, Program Management, Intake Management and Registrations of students.
 
-## Receptionist
- + Receptionist can 
+## Admin
+ + Admin can 
 	- ADD/DELETE/UPDATE a Student.
 	- ADD/DELETE/UPDATE a Teacher.
 	- ADD/DELETE/UPDATE a Program. 
